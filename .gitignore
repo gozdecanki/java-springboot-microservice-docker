@@ -1,3 +1,28 @@
+*.metadata
+*.metadata/
+.metadata/
+
+target/
+.mvn/*
+
+
+mvnw.cmd
+
+*.class
+*.jar
+*.war
+*.ear
+.mtj.tmp/
+hs_err_pid*
+
+.idea
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.idea_modules/
+
 # Compiled class file
 *.class
 
